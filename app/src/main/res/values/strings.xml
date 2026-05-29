@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Identificador de Chamadas</string>
+    <string name="settings">Configurações</string>
+    <string name="enable_service">Ativar Serviço</string>
+    <string name="disable_service">Desativar Serviço</string>
+    <string name="service_running">Serviço ativo - Monitorando chamadas</string>
+    <string name="service_stopped">Serviço desativado</string>
+    <string name="grant_permissions">Conceder Permissões</string>
+    <string name="permissions_required">Permissões necessárias para funcionar</string>
+    <string name="overlay_permission_required">Permissão de sobreposição necessária</string>
+    <string name="go_to_settings">Ir para Configurações</string>
+    
+    <!-- Call Screen Overlay -->
+    <string name="incoming_call">Chamada recebida</string>
+    <string name="answer_with_bot">Atender com Robô</string>
+    <string name="answer_normally">Atender Normal</string>
+    <string name="reject_call">Recusar</string>
+    <string name="listening">Ouvindo…</string>
+    <string name="transcription">Transcrição:</string>
+    <string name="take_call">Pegar Ligação</string>
+    <string name="hang_up">Desligar</string>
+    
+    <!-- Settings -->
+    <string name="greeting_message">Mensagem de Saudação</string>
+    <string name="greeting_message_hint">Olá, sou o assistente virtual. Qual o motivo da ligação?</string>
+    <string name="auto_answer">Responder Automaticamente</string>
+    <string name="auto_answer_summary">Atender automaticamente com o robô</string>
+    <string name="save">Salvar</string>
+    
+    <!-- Notifications -->
+    <string name="notification_channel_name">Serviço de Chamadas</string>
+    <string name="notification_channel_desc">Monitora chamadas recebidas</string>
+    <string name="monitoring_calls">Monitorando chamadas</string>
+</resources>
